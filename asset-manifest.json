@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fadv-portofolio-task/static/css/main.a404f143.css",
+    "main.js": "/fadv-portofolio-task/static/js/main.6887b728.js",
+    "static/js/787.512dd3f2.chunk.js": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/fadv-portofolio-task/index.html",
+    "main.a404f143.css.map": "/fadv-portofolio-task/static/css/main.a404f143.css.map",
+    "main.6887b728.js.map": "/fadv-portofolio-task/static/js/main.6887b728.js.map",
+    "787.512dd3f2.chunk.js.map": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a404f143.css",
+    "static/js/main.6887b728.js"
+  ]
+}
